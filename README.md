@@ -42,6 +42,7 @@ This setup process tested my ability to follow instructions independently, troub
 
 **Mrunal Yerne**
 Junior Growth Marketing Specialist Applicant
+
 ---
 
 ## Step 2 — Research Project: LinkedIn Organic Content Strategy for B2B SaaS
@@ -93,11 +94,13 @@ The mix covers the full stack: how to write → how the algorithm works → how 
 
 ### Repository Structure
 
+```
 research/
 ├── sources.md — 10 experts with LinkedIn URLs, follower counts and selection rationale
 ├── linkedin-posts/ — 30 posts organised by expert (3 each)
 ├── youtube-transcripts/ — 3 video transcripts collected via Supadata API
 └── other/ — additional materials
+```
 
 ### Key Insight from This Research
 
