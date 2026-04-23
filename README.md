@@ -42,3 +42,66 @@ This setup process tested my ability to follow instructions independently, troub
 
 **Mrunal Yerne**
 Junior Growth Marketing Specialist Applicant
+---
+
+## Step 2 — Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+### Topic Selected
+LinkedIn Organic Content Strategy for B2B SaaS
+
+### What I Collected
+
+**LinkedIn Posts — 30 posts total (3 per expert):**
+
+| Expert | Followers | Posts Collected |
+|---|---|---|
+| Justin Welsh | 800K+ | Content philosophy, consistency mindset, self-confidence |
+| Lara Acosta | 325K | Viral checklist, profile optimisation, Forbes 30U30 story |
+| Richard van der Blom | 264K | LinkedIn Interest Graph, algorithm 2026, AI transition |
+| Jasmin Alic | 360K | 5-step posting checklist, content nurturing, community |
+| Matt Barker | 190K | AI writing quality, impressions arbitrage, audience formatting |
+| Ross Simmonds | 58K | LLMs and brand discovery, social proof receipts, Answer Economy |
+| Daniel Murray | 159K | AI content gap, humanising B2B marketing, business acumen |
+| Brendan Hufford | 51K | B2B buying cycle data, newsletter fatigue, AI content taste |
+| Amanda Natividad | 63K | Audience research, webinar content engine, invisible influence |
+| Sam Browne | 113K | AI content crisis on LinkedIn, custom feed hack, $100k profile |
+
+**YouTube Transcripts — 3 videos collected via Supadata API:**
+
+| Video | Expert | Topic |
+|---|---|---|
+| The Best LinkedIn Content Strategy 2025 | Lara Acosta | LinkedIn growth strategy |
+| LinkedIn WILL Change in 2026 | Lara Acosta | LinkedIn algorithm changes |
+| B2B Content and Social Media Strategy | Ross Simmonds | B2B content distribution |
+
+### Why These Experts Were Chosen
+
+These 10 experts were selected based on 4 deliberate criteria — not Google search results:
+
+1. **Practitioners first** — every expert actively uses LinkedIn to grow their own business
+2. **B2B SaaS relevance** — content directly applicable to SaaS companies using LinkedIn for growth
+3. **Original frameworks** — each expert has unique, teachable systems (Zero-Click Content, Content OS, Algorithm Research Reports)
+4. **Intentional diversity** — algorithm researchers + B2B practitioners + founders + framework creators
+
+The mix covers the full stack: how to write → how the algorithm works → how content converts to pipeline.
+
+### Tools Used
+
+- **Supadata API** — YouTube transcripts collected programmatically via Node.js script
+- **Claude Code + Codex** — used throughout for research organisation and structuring
+- **Git + GitHub** — committed regularly throughout the process (not one giant commit at the end)
+
+### Repository Structure
+
+research/
+├── sources.md — 10 experts with LinkedIn URLs, follower counts and selection rationale
+├── linkedin-posts/ — 30 posts organised by expert (3 each)
+├── youtube-transcripts/ — 3 video transcripts collected via Supadata API
+└── other/ — additional materials
+
+### Key Insight from This Research
+
+The most recurring theme across all 10 experts: **AI is changing LinkedIn, but human judgment, taste and authenticity remain the competitive advantage.** B2B SaaS companies that combine consistent, valuable content with genuine audience understanding will win — regardless of algorithm changes.
+
+**Mrunal Yerne**
+Junior Growth Marketing Specialist Applicant
