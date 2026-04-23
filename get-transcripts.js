@@ -17,10 +17,10 @@ const videos = [
     filename: 'lara-acosta-linkedin-2026.md'
   },
   {
-    id: '7_bFP2iVVN0',
-    title: 'B2B Content Marketing and Distribution - Ross Simmonds',
+    id: '8lQfWBFF45U',
+    title: 'B2B Content and Social Media Strategy - Ross Simmonds',
     expert: 'ross-simmonds',
-    filename: 'ross-simmonds-b2b-content.md'
+    filename: 'ross-simmonds-b2b-social-strategy.md'
   }
 ];
 
