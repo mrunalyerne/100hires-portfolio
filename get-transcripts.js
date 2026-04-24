@@ -21,6 +21,18 @@ const videos = [
     title: 'B2B Content and Social Media Strategy - Ross Simmonds',
     expert: 'ross-simmonds',
     filename: 'ross-simmonds-b2b-social-strategy.md'
+  },
+  {
+    id: 'nmPGcQvDnEg',
+    title: 'How to Use LinkedIn 2025 Algorithm to Attract Clients - Richard van der Blom',
+    expert: 'richard-van-der-blom',
+    filename: 'richard-van-der-blom-algorithm-2025.md'
+  },
+  {
+    id: '29C2qGyYjzc',
+    title: '2025 LinkedIn Strategies That Actually Work - Jasmin Alic',
+    expert: 'jasmin-alic',
+    filename: 'jasmin-alic-linkedin-strategies-2025.md'
   }
 ];
 
