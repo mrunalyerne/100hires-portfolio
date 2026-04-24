@@ -67,13 +67,15 @@ LinkedIn Organic Content Strategy for B2B SaaS
 | Amanda Natividad | 63K | Audience research, webinar content engine, invisible influence |
 | Sam Browne | 113K | AI content crisis on LinkedIn, custom feed hack, $100k profile |
 
-**YouTube Transcripts — 3 videos collected via Supadata API:**
+**YouTube Transcripts — 5 videos collected via Supadata API:**
 
 | Video | Expert | Topic |
 |---|---|---|
 | The Best LinkedIn Content Strategy 2025 | Lara Acosta | LinkedIn growth strategy |
 | LinkedIn WILL Change in 2026 | Lara Acosta | LinkedIn algorithm changes |
 | B2B Content and Social Media Strategy | Ross Simmonds | B2B content distribution |
+| How to Use LinkedIn 2025 Algorithm to Attract Clients | Richard van der Blom | LinkedIn algorithm 2025 |
+| 2025 LinkedIn Strategies That Actually Work | Jasmin Alic | LinkedIn growth strategies |
 
 ### Why These Experts Were Chosen
 
