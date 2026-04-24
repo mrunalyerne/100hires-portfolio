@@ -100,7 +100,7 @@ The mix covers the full stack: how to write → how the algorithm works → how 
 research/
 ├── sources.md — 10 experts with LinkedIn URLs, follower counts and selection rationale
 ├── linkedin-posts/ — 30 posts organised by expert (3 each)
-├── youtube-transcripts/ — 3 video transcripts collected via Supadata API
+├── youtube-transcripts/ — 5 video transcripts collected via Supadata API
 └── other/ — additional materials
 ```
 
