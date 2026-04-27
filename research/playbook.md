@@ -55,11 +55,9 @@ B2B SaaS companies make a common mistake — they post product updates, blog rou
 - Identify the top 3 problems your ideal customer faces daily
 - Build your content pillars around these problems — not your product features
 - Every post should make your reader think "this person understands my world"
-- Use the "How I" frame instead of "How To" — personal experience builds more trust than generic advice
 
 *(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_new-data-83-of-buyers-are-tired-of-your-activity-7452347451002425344-nvX7), 21.04.2026)*
 
-*(Source: Amanda Natividad, [LinkedIn post](https://www.linkedin.com/posts/amandanat_most-best-practices-are-just-statistically-activity-7452412081632559104-Ytlb), 22.04.2026)*
 
 ---
 
@@ -68,7 +66,6 @@ B2B SaaS companies make a common mistake — they post product updates, blog rou
 Not all LinkedIn formatting advice applies to B2B SaaS. Most "best practices" are built for broad, general audiences — not sophisticated decision makers.
 
 **Recommendations:**
-- Your first sentence must contain a metric or a keyword to stop the scroll
 - Write for YOUR audience — if they are executives and founders, they want substance, not bullet points
 - Use the "Dear son" writing method — write as if explaining to someone you care about, then remove the opening and closing. This makes your writing warm and readable
 - Stay for at least 1 hour after posting to respond to every comment. Never post and ghost
@@ -108,7 +105,7 @@ One LinkedIn post is not a content strategy. The best B2B SaaS teams treat every
 
 *(Source: Amanda Natividad, [LinkedIn post](https://www.linkedin.com/posts/amandanat_goldcastpartner-activity-7452015741458874369-oZAI), 21.04.2026)*
 
-*(Source: Ross Simmonds, [LinkedIn post](https://www.linkedin.com/posts/rosssimmonds_llms-dont-recommend-brands-they-recommend-activity-7452657466997338112-85eD), 22.04.2026)*
+*(Source: Ross Simmonds, [LinkedIn post](https://www.linkedin.com/posts/rosssimmonds_the-answer-economy-g2s-2026-ai-search-insight-activity-7452384243860758529-dlAC), 22.04.2026)*
 
 ---
 
@@ -124,7 +121,6 @@ The B2B buying cycle is 272 days on average, with 88 touchpoints across 4 channe
 
 *(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_ive-got-some-data-thats-gonna-blow-your-activity-7452716903359475712-jhMU), 23.04.2026)*
 
-*(Source: Justin Welsh, [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_if-you-can-spend-a-decade-showing-up-feeling-activity-7452684724310941696-vog4), 22.04.2026)*
 
 ---
 
@@ -149,10 +145,10 @@ I side with Matt Barker. Lara Acosta's audience is broad — entrepreneurs and p
 
 ### Disagreement 2 — Short lines or full paragraphs?
 
-**What Jasmin Alic recommends:**
+**What Lara Acosta recommends recommends:**
 Format your content with spacing and listicles for easy reading. Good formatting increases engagement and makes posts more accessible.
 
-*(Source: Jasmin Alic, [LinkedIn post](https://www.linkedin.com/posts/alicjasmin_heres-5-things-i-do-on-every-linkedin-post-activity-7452302435147988993-u4iI), 21.04.2026)*
+*(Source: Lara Acosta, [LinkedIn post](https://www.linkedin.com/posts/laraacostar_this-week-i-made-10-founders-go-viral-on-activity-7453027659896217600--b6X), 23.04.2026)*
 
 **What Matt Barker recommends:**
 Short line formatting works for broad general audiences. If you write for founders and executives who want to be challenged, that style irritates them. They want full paragraphs and substance.
@@ -166,10 +162,10 @@ I side with Matt Barker. B2B SaaS buyers are intelligent professionals. Writing 
 
 ### Disagreement 3 — Volume vs Quality: How often should you post?
 
-**What Lara Acosta recommends:**
+**What Jasmin Alic recommends:**
 Post relentlessly and keep building endlessly. Consistency is the price of success on LinkedIn. Never quit posting.
 
-*(Source: Lara Acosta, [LinkedIn post](https://www.linkedin.com/posts/laraacostar_linkedin-gave-you-a-platform-to-impact-peoples-activity-7449765767035789313-XUBx), 16.04.2026)*
+*(Source: Jasmin Alic, [LinkedIn post](https://www.linkedin.com/posts/alicjasmin_linkedin-gave-you-a-platform-to-impact-peoples-activity-7449765767035789313-XUBx), 16.04.2026)*
 
 **What Brendan Hufford recommends:**
 Nobody has ever bought something because a company overwhelmed them with mediocre marketing. Scaling content output 600% means nothing if the content is slop. Quality and taste matter more than volume.
@@ -177,7 +173,7 @@ Nobody has ever bought something because a company overwhelmed them with mediocr
 *(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_every-piece-of-ai-generated-content-says-activity-7451985535914487809-Y6C_), 20.04.2026)*
 
 **Which side I take and why:**
-I side with Brendan Hufford. For B2B SaaS specifically, one exceptional post per week that makes a decision maker stop and think is worth more than five mediocre posts. Quality builds reputation. Volume without quality builds noise. Lara Acosta's advice works for personal brands chasing followers — but B2B SaaS companies need pipeline, not popularity.
+I side with Brendan Hufford. For B2B SaaS specifically, one exceptional post per week that makes a decision maker stop and think is worth more than five mediocre posts. Quality builds reputation. Volume without quality builds noise. Jasmin Alic's advice works for personal brands chasing followers — but B2B SaaS companies need pipeline, not popularity.
 
 ---
 
@@ -191,9 +187,8 @@ Justin Welsh ends every single LinkedIn post with a link to his newsletter, dire
 *(Source: Justin Welsh, [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_if-you-can-spend-a-decade-showing-up-feeling-activity-7452684724310941696-vog4), 22.04.2026)*
 
 **Why I rejected it:**
-Justin Welsh's strategy works because he is a solopreneur monetising his personal brand through a newsletter. For B2B SaaS companies, pushing people OFF LinkedIn in every post hurts your algorithm engagement signals. Amanda Natividad's Zero-Click Content framework specifically argues that the most valuable organic marketing keeps people on the platform — delivering complete value without requiring a click. Every time a B2B SaaS company sends people to an external link, they lose the engagement signal LinkedIn needs to distribute their content further. Build your LinkedIn audience on LinkedIn first.
+Justin Welsh's strategy works because he is a solopreneur monetising his personal brand through a newsletter. For B2B SaaS companies, pushing people OFF LinkedIn in every post hurts your algorithm engagement signals. Keeping people on LinkedIn is more valuable than sending them to external links. Every time a B2B SaaS company sends people to an external link, they lose the engagement signal LinkedIn needs to distribute their content further. Build your LinkedIn audience on LinkedIn first.
 
-*(Source: Amanda Natividad, [LinkedIn post](https://www.linkedin.com/posts/amandanat_organic-marketing-used-to-be-pretty-predictable-activity-7450967270371065856-a1W1), 18.04.2026)*
 
 ---
 
