@@ -1,7 +1,7 @@
 # LinkedIn Organic Content Strategy for B2B SaaS — Playbook & SOP
 
 **Compiled by:** Mrunal Yerne  
-**Date:** April 2026  
+**Date:** April 26, 2026 
 **Based on research from:** 10 LinkedIn experts, 30 posts, 5 YouTube transcripts  
 **Topic:** LinkedIn Organic Content Strategy for B2B SaaS
 
