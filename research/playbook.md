@@ -125,3 +125,112 @@ The B2B buying cycle is 272 days on average, with 88 touchpoints across 4 channe
 *(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_ive-got-some-data-thats-gonna-blow-your-activity-7452716903359475712-jhMU), 23.04.2026)*
 
 *(Source: Justin Welsh, [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_if-you-can-spend-a-decade-showing-up-feeling-activity-7452684724310941696-vog4), 22.04.2026)*
+---
+
+## Section 2: Where Experts Disagree
+
+### Disagreement 1 — Should you use images in every post?
+
+**What Lara Acosta recommends:**
+Always use an image or infographic in your posts to increase engagement. Visual content stops the scroll and performs better on LinkedIn.
+
+*(Source: Lara Acosta, [LinkedIn post](https://www.linkedin.com/posts/laraacostar_this-week-i-made-10-founders-go-viral-on-activity-7453027659896217600--b6X), 23.04.2026)*
+
+**What Matt Barker recommends:**
+Format depends entirely on your audience. For sophisticated B2B audiences, walls of text are not universally bad and short lines are not universally good. The only question that matters is: does this work for MY audience?
+
+*(Source: Matt Barker, [LinkedIn post](https://www.linkedin.com/posts/mattjbarker1_you-asked-claude-how-to-format-your-linkedin-activity-7450875312554307584-mn2S), 18.04.2026)*
+
+**Which side I take and why:**
+I side with Matt Barker. Lara Acosta's audience is broad — entrepreneurs and personal brand builders. B2B SaaS decision makers are different. They are time-poor, sophisticated, and want substance. An image adds visual noise when the idea itself should do the work. Format must serve the audience, not a generic best practice.
+
+---
+
+### Disagreement 2 — Short lines or full paragraphs?
+
+**What Jasmin Alic recommends:**
+Format your content with spacing and listicles for easy reading. Good formatting increases engagement and makes posts more accessible.
+
+*(Source: Jasmin Alic, [LinkedIn post](https://www.linkedin.com/posts/alicjasmin_heres-5-things-i-do-on-every-linkedin-post-activity-7452302435147988993-u4iI), 21.04.2026)*
+
+**What Matt Barker recommends:**
+Short line formatting works for broad general audiences. If you write for founders and executives who want to be challenged, that style irritates them. They want full paragraphs and substance.
+
+*(Source: Matt Barker, [LinkedIn post](https://www.linkedin.com/posts/mattjbarker1_you-asked-claude-how-to-format-your-linkedin-activity-7450875312554307584-mn2S), 18.04.2026)*
+
+**Which side I take and why:**
+I side with Matt Barker. B2B SaaS buyers are intelligent professionals. Writing in fragmented short lines can feel condescending to a CFO or CTO reading your post. Substance and depth signal expertise better than visual formatting tricks.
+
+---
+
+### Disagreement 3 — Volume vs Quality: How often should you post?
+
+**What Lara Acosta recommends:**
+Post relentlessly and keep building endlessly. Consistency is the price of success on LinkedIn. Never quit posting.
+
+*(Source: Lara Acosta, [LinkedIn post](https://www.linkedin.com/posts/laraacostar_linkedin-gave-you-a-platform-to-impact-peoples-activity-7449765767035789313-XUBx), 16.04.2026)*
+
+**What Brendan Hufford recommends:**
+Nobody has ever bought something because a company overwhelmed them with mediocre marketing. Scaling content output 600% means nothing if the content is slop. Quality and taste matter more than volume.
+
+*(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_every-piece-of-ai-generated-content-says-activity-7451985535914487809-Y6C_), 20.04.2026)*
+
+**Which side I take and why:**
+I side with Brendan Hufford. For B2B SaaS specifically, one exceptional post per week that makes a decision maker stop and think is worth more than five mediocre posts. Quality builds reputation. Volume without quality builds noise. Lara Acosta's advice works for personal brands chasing followers — but B2B SaaS companies need pipeline, not popularity.
+
+---
+
+## Section 3: What I Rejected and Why
+
+### Rejected Idea 1 — Adding a newsletter CTA at the end of every post
+
+**What the expert recommends:**
+Justin Welsh ends every single LinkedIn post with a link to his newsletter, directing his audience to subscribe and read his weekly essays.
+
+*(Source: Justin Welsh, [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_if-you-can-spend-a-decade-showing-up-feeling-activity-7452684724310941696-vog4), 22.04.2026)*
+
+**Why I rejected it:**
+Justin Welsh's strategy works because he is a solopreneur monetising his personal brand through a newsletter. For B2B SaaS companies, pushing people OFF LinkedIn in every post hurts your algorithm engagement signals. Amanda Natividad's Zero-Click Content framework specifically argues that the most valuable organic marketing keeps people on the platform — delivering complete value without requiring a click. Every time a B2B SaaS company sends people to an external link, they lose the engagement signal LinkedIn needs to distribute their content further. Build your LinkedIn audience on LinkedIn first.
+
+*(Source: Amanda Natividad, [LinkedIn post](https://www.linkedin.com/posts/amandanat_organic-marketing-used-to-be-pretty-predictable-activity-7450967270371065856-a1W1), 18.04.2026)*
+
+---
+
+### Rejected Idea 2 — Repost your own content 6-8 hours after publishing
+
+**What the expert recommends:**
+Jasmin Alic recommends reposting your own post 6-8 hours after publishing to reach new time zones and audiences.
+
+*(Source: Jasmin Alic, [LinkedIn post](https://www.linkedin.com/posts/alicjasmin_heres-5-things-i-do-on-every-linkedin-post-activity-7452302435147988993-u4iI), 21.04.2026)*
+
+**Why I rejected it:**
+Richard van der Blom's 2026 algorithm research shows LinkedIn now evaluates your entire professional identity consistently. Duplicate content — even your own — risks confusing the Interest Graph and signalling low-effort content behaviour. For B2B SaaS brands where trust and credibility are everything, reposting the same content can appear lazy to decision makers who follow you closely. The short-term reach gain is not worth the long-term credibility risk.
+
+*(Source: Richard van der Blom, [LinkedIn post](https://www.linkedin.com/posts/richardvanderblom_most-linkedin-advice-in-2026-is-already-outdated-activity-7452608409272631296-kM_B), 22.04.2026)*
+
+---
+
+## Section 4: My Original Ideas
+
+### The Right Audience Index — Stop Measuring Followers, Start Measuring Fit
+
+Every B2B SaaS marketing team measures LinkedIn success by follower count. This is the wrong metric.
+
+During my research for this playbook, I noticed something striking: the two experts with the smallest followings on my list — Brendan Hufford (51K) and Amanda Natividad (63K) — are arguably the highest-signal sources. Brendan's data on B2B buying cycles is cited across the industry. Amanda's Zero-Click Content framework is used by global marketing teams. Meanwhile, Justin Welsh (800K+ followers) primarily serves solopreneurs — not B2B SaaS buyers.
+
+**The insight: follower count and audience quality are not the same thing.**
+
+Most people assume more followers means more clients. But in B2B SaaS, the decision maker reading your post matters infinitely more than the total number of people who see it. A post seen by 200 CFOs is worth more than a post seen by 20,000 random professionals.
+
+**Why this idea could work:**
+LinkedIn already provides data on who views your profile and who engages with your posts. B2B SaaS companies can use this data to track audience quality — not just quantity. If your followers are becoming more senior and more relevant over time, your content strategy is working — even if your follower count grows slowly.
+
+**My recommendation — track these metrics instead of follower count:**
+- **Comment quality** — are VP-level and C-suite professionals engaging with your content?
+- **Profile visit job titles** — are your ideal customers viewing your profile after seeing your posts?
+- **DM conversations started** — are posts leading to direct conversations with decision makers?
+- **Inbound lead attribution** — how many deals mention LinkedIn as a touchpoint?
+
+A B2B SaaS company with 2,000 followers where 40% are CFOs and CTOs will outperform a company with 20,000 followers of mixed relevance every single time.
+
+**Build for the right audience, not the biggest audience.**
