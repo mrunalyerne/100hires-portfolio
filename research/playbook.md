@@ -235,3 +235,60 @@ LinkedIn already provides data on who views your profile and who engages with yo
 A B2B SaaS company with 2,000 followers where 40% are CFOs and CTOs will outperform a company with 20,000 followers of mixed relevance every single time.
 
 **Build for the right audience, not the biggest audience.**
+
+---
+
+## Section 5: Weaknesses of This Playbook
+
+I want to be honest about what this playbook does not cover and what assumptions may not hold.
+
+**1. Based on expert opinions, not tested campaigns**
+Every recommendation in this playbook comes from practitioners who have built their own personal brands. None of these recommendations have been tested by me in a live B2B SaaS campaign. What works for Justin Welsh with 800K followers may behave differently for a SaaS startup with 200 followers starting from zero.
+
+**2. Personal brand tactics may not translate to company pages**
+All 10 experts I researched build personal LinkedIn brands — not company pages. LinkedIn's algorithm treats personal profiles and company pages differently. This playbook is strongest for founder-led LinkedIn strategies. Applying it to a faceless company page requires additional adaptation.
+
+**3. Algorithm changes make this time-sensitive**
+Richard van der Blom publishes a new Algorithm Research Report every year because LinkedIn changes its rules frequently. This playbook reflects the algorithm as understood in April 2026. Recommendations may need updating by Q3 2026.
+
+**4. Assumes consistent execution is possible**
+This playbook assumes a team or individual can post consistently, engage for 1 hour after each post, and repurpose content across channels. Most early-stage B2B SaaS companies have small marketing teams where this level of execution is genuinely difficult. The playbook works best when there is dedicated resource for LinkedIn content.
+
+---
+
+## Section 6: Who I Would NOT Recommend Following and Why
+
+### Daniel Murray — Not Recommended for B2B SaaS LinkedIn Strategy
+
+Daniel Murray is the founder of The Marketing Millennials and runs an "Authority" service that claims to help people build LinkedIn presence. On the surface, he appears to be a relevant expert.
+
+However, after carefully analysing his collected posts, I would not recommend him as a primary source for B2B SaaS LinkedIn strategy. Here is why:
+
+**Evidence from his posts:**
+- Post 1 collected from Daniel Murray is a sponsored post for Markup AI — marked with #markupaipartner *(Source: Daniel Murray, [LinkedIn post](https://www.linkedin.com/posts/daniel-murray-marketing_markupaipartner-activity-7448006248530079746-e1pH), 16.04.2026)*
+- Post 3 collected is another sponsored post for Profound, a funded startup *(Source: Daniel Murray, [LinkedIn post](https://www.linkedin.com/posts/daniel-murray-marketing_ai-agents-have-already-entered-your-org-activity-7432151471388901376-bUem), 01.04.2026)*
+- His content is broad marketing advice, not LinkedIn-specific strategy
+
+**The problem with sponsored content as a research source:**
+Sponsored posts are paid promotions. The advice in a sponsored post is shaped by what the paying brand wants to communicate — not what is genuinely best for the reader. Using sponsored content as the basis for a LinkedIn strategy playbook introduces bias and reduces credibility.
+
+**Compared to other experts on this list:**
+Richard van der Blom publishes data from 1.3 million posts. Amanda Natividad runs marketing at SparkToro and tests her frameworks on real audiences. Brendan Hufford shares hard B2B data from actual campaigns. Daniel Murray's sponsored posts do not meet the same standard of evidence.
+
+**My recommendation:**
+Follow Daniel Murray for broad marketing inspiration if you enjoy his style. But do not use his sponsored content posts as the foundation for your LinkedIn strategy. Prioritise practitioners who share unsponsored, evidence-based insights.
+
+---
+
+## Conclusion
+
+The single most important lesson from this research:
+
+**LinkedIn in 2026 rewards relevance, consistency, and genuine human judgment — not volume, virality, or AI shortcuts.**
+
+For B2B SaaS companies, LinkedIn organic content is one of the highest-ROI marketing channels available — but only when executed with discipline, audience understanding, and a long-term mindset.
+
+Build for the right audience. Write with substance. Engage authentically. And measure what actually matters.
+
+**Mrunal Yerne**
+Junior Growth Marketing Specialist Applicant
