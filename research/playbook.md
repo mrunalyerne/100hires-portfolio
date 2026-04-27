@@ -125,6 +125,7 @@ The B2B buying cycle is 272 days on average, with 88 touchpoints across 4 channe
 *(Source: Brendan Hufford, [LinkedIn post](https://www.linkedin.com/posts/brendanhufford_ive-got-some-data-thats-gonna-blow-your-activity-7452716903359475712-jhMU), 23.04.2026)*
 
 *(Source: Justin Welsh, [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_if-you-can-spend-a-decade-showing-up-feeling-activity-7452684724310941696-vog4), 22.04.2026)*
+
 ---
 
 ## Section 2: Where Experts Disagree
