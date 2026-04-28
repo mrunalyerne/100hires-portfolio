@@ -202,7 +202,7 @@ Jasmin Alic recommends reposting your own post 6-8 hours after publishing to rea
 **Why I rejected it:**
 Richard van der Blom's 2026 algorithm research shows LinkedIn now evaluates your entire professional identity consistently. Duplicate content — even your own — risks confusing the Interest Graph and signalling low-effort content behaviour. For B2B SaaS brands where trust and credibility are everything, reposting the same content can appear lazy to decision makers who follow you closely. The short-term reach gain is not worth the long-term credibility risk.
 
-*(Source: Richard van der Blom, [LinkedIn post](https://www.linkedin.com/posts/richardvanderblom_most-linkedin-advice-in-2026-is-already-outdated-activity-7452608409272631296-kM_B), 22.04.2026)*
+*(Source: Richard van der Blom, [LinkedIn post](https://www.linkedin.com/posts/richardvanderblom_rvdb10-ways-to-train-linkedin-brain-activity-7452961358817566720-qumA), 23.04.2026)*
 
 ---
 
